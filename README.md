@@ -1,8 +1,15 @@
-# mute-my-mic
+# Mute my mic
+
 Ubuntu app to mute and unmute your microphone
 
-## Gaols
+## Requirements
+
+- Ubuntu 18.04
+- python 2.7+
+
+## Goals
 - Tray icon.
+- Menu to Mute and Unmute.
 - Mute and Unmute with keyboard shortcut.
 
 ## Run
