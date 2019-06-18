@@ -5,3 +5,8 @@ Ubuntu app to mute and unmute your microphone
 - Tray icon.
 - Mute and Unmute with keyboard shortcut.
 
+## Run
+
+```sh
+python ./app.py
+```
